@@ -1,7 +1,10 @@
 # Boost Camp AI
 #### [소개](https://boostcamp.connect.or.kr/about.html)
 
-### U Stage
+### 진행 기간
+- 2021.01 ~ 진행 중
+
+## U Stage
 
 #### [Week 1](https://github.com/sunnight9507/BoostCampAI/tree/main/%5BU%5D%20Week1%20(Python))
 > - Python 
