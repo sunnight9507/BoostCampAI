@@ -1,0 +1,26 @@
+문자열 사용할 때
+작은 따옴표가 아닌 큰 따옴표 (PEP8 스타일)
+
+type hint
+https://docs.python.org/3/library/typing.html
+
+attribute 말고도 method에도 접근제어 가능
+https://medium.com/@hckcksrl/python-property-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-89eb0f0e2e56
+
+_ 언더바 관련한 내용들
+https://blog.naver.com/reisei11/221749496623
+
+정보 은닉
+https://injun379.tistory.com/87
+
+class a():
+    def __init__(self, value1, value2, value3):
+        self.value1 = value1
+        self._value2 = value2
+        self.__value3 = value3
+        
+aa = a(1,2,3)
+aa._a__value3 # 접근 가능
+
+@property 
+getter, setter를 간단하게 구현
