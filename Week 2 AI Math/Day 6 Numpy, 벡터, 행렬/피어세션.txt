@@ -1,0 +1,15 @@
+공유할 내용
+
+1)
+LaTeX 
+(https://jjycjnmath.tistory.com/117)
+
+궁금한 내용
+
+1)
+numpy shape, ndim은 괄호 안쓰고 max, argmax는 괄호 쓰는데 무슨 차이인지?
+class내의 attribute와 method 차이인지
+shape이 attribute라면 numpy array가 할당 될 때 shape이라는 attribute(?)에도 할당이 되는건지?
+
+2)
+내적은 정사영의 길이를 벡터 y의 길이 ||y||만큼 조정한 값이다. (p34)
