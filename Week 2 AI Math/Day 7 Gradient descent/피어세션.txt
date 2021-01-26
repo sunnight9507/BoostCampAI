@@ -1,0 +1,33 @@
+공유할 내용
+
+1) 기울기 표로 나타내는 방법
+
+x, y = sym.symbols('x y')
+fun = x**2 + y**2
+
+# 미분 함수 정의
+gradfun = [sympy.diff(fun, var) for var in (x,y)] # 미분
+numgradfun = sympy.lambdify([x, y], gradfun) # 미분 함수
+
+X,Y = np.meshgrid(np.arange(-5,6, 0.5),np.arange(-5,6, 0.5))
+graddat = numgradfun(X,Y)
+
+plt.figure()
+plt.quiver(X,Y,graddat[0],graddat[1])
+plt.show()
+
+2) 경사하강법
+
+2-1) GD / SGD / Mini-batch GD 차이
+GD : 전체데이터
+SGD : 데이터 하나
+Mini batch : 정해진 batch size의 데이터
+
+참고 : https://bioinformaticsandme.tistory.com/134
+
+2-2) 경사하강법 종류
+https://blog.kakaocdn.net/dn/GSzQ7/btqw5gY53el/nv70aLh2irrAkBoDijKwSk/img.png
+
+궁금한 내용
+
+1)
