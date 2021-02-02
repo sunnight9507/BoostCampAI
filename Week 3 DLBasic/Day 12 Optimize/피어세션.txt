@@ -1,0 +1,18 @@
+공유할 내용
+
+1) Stacking
+
+2) EMA : Exponential Moving Average
+- 가중평균인데 가중치를 지수적으로 감소 시킴
+- https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%8F%99%ED%8F%89%EA%B7%A0
+
+3) 26p Adam
+첫번째 수식 t=1 -> t-1
+
+궁금한 내용
+
+1) cost = bias + variance + noise 수식
+
+2) Gradient Descent Methods
+NAG까지는 화살표 / Adagrad부터 =
+이유는?
