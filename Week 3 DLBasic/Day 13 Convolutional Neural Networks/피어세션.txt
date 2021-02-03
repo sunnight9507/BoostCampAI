@@ -1,0 +1,14 @@
+공유할 내용
+
+1) 코드 마지막 한 줄 띄우는 이유
+- 깃허브 commit할때 No newline at end line이라고 일종의 경고?
+
+궁금한 내용
+
+1) CNN prev_hdim 계산 과정?
+- max pooling한 수만큼 나눠주는건지?
+
+2) convolution 연산 뒤 channel을 sum 하는 이유?
+단순히 parameter 수를 줄이기 위해서인지? 아니면 다른 이유가 있는지?
+convolution 한 뒤 각각의 채널을 sum을 하는 것이 아니라 각각의 채널로 보면 더 좋지 않을까?
+convolution 연산 후 sum을 하면 각각의 특징들이 섞이지 않을까?
