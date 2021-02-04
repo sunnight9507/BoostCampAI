@@ -1,0 +1,9 @@
+공유할 내용
+
+1) LSTM, GRU
+https://davinci-ai.tistory.com/30
+Bidirectional RNN, Bidirectional LSTM
+
+궁금한 내용
+
+1) ResNet에서 X를 더해주는 것
