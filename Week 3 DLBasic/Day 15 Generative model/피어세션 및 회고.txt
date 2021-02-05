@@ -1,0 +1,18 @@
+공유할 내용
+
+1) view, reshape, transpose, permute
+https://sanghyu.tistory.com/3
+https://subinium.github.io/pytorch-Tensor-Variable/
+
+2) 가능도(likelihood)
+https://ko.wikipedia.org/wiki/%EA%B0%80%EB%8A%A5%EB%8F%84
+
+궁금한 내용
+
+1) transformer 15:45 key value 내적??
+key query 내적인데 말실수하신건지
+
+2) Generative Models 1 11p 파라미터 수 구하는 방법?
+가능한 경우의 수랑 파라미터 수를 구하는 것은 무슨 차이?
+
+3) matmul / dot 차이
