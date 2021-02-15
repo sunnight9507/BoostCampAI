@@ -1,0 +1,17 @@
+공유할 내용
+
+1) MLE vs MAP
+https://niceguy1575.tistory.com/entry/MLE-vs-MAP-Maximum-Likelihood-or-Maximum-a-Posteriori
+
+2) Groud Truth
+https://eair.tistory.com/16
+
+궁금한 내용
+
+1) 확률 값이 0일때 방법?
+분모 분자에 아주 작은 값을 더해주는 방법?
+
+2) softmax를 취한 값과 실제 값의 차이를 구하는 방법? 동일하게 cross entropy? (24p)
+
+3) Glove / Word2Vec 차이? log 의미?
+window size vs 전체 단어
