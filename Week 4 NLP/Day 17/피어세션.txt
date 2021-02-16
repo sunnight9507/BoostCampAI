@@ -1,0 +1,10 @@
+공유할 내용
+
+1) Window konlpy download
+https://webnautes.tistory.com/1394
+
+2) RNN output이 hidden states, h_n일 떄 hidden state의 마지막 값은 h_n과 동일하다.
+
+궁금한 내용
+
+1) LSTM / GRU backpropagation uninterrupted의 의미?
