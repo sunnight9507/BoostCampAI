@@ -1,0 +1,12 @@
+공유할 내용
+
+1) 
+
+궁금한 내용
+
+1) 실습 5 seq2seq Encoder function에서 forward hidden, backword hidden이 의미하는것?
+concat하는 이유?
+
+2) 강의 1 8p에서 Key의 vector의 차원이 (dk,4) 인 이유? 
+Query에서 3개면 Key의 차원도 동일하게 3개로 나와야하는거 아닌지?
+해결...
