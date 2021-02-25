@@ -1,0 +1,10 @@
+공유할 내용
+
+1)
+
+궁금한 내용
+
+1) community, cluster의 차이
+https://stats.stackexchange.com/questions/15824/what-is-the-difference-between-graph-clustering-and-community-detection-methods
+
+
