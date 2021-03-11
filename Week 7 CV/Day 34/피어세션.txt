@@ -1,0 +1,19 @@
+공유할 내용
+
+1) https://arclab.tistory.com/220
+하나의 pixel의 값을 어떻게 활용하는지
+RoI pooling과 RoI-Align의 차이
+
+궁금한 내용
+
+1) 강의 2 23p
+수식에 대한 질문
+1-1) x, y가 각각 input, output이라고 할 때 z는 무엇인지
+
+2) 강의 2 38p
+Gram matrices가 만들어진 과정
+Gram matrices가 스타일을 표현하지 않을까
+or 이렇게 해봤는데 스타일이 표현된다?
+
+
+

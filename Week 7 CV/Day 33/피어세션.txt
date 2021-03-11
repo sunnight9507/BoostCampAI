@@ -1,0 +1,11 @@
+공유할 내용
+
+1)
+
+궁금한 내용
+
+1) RoI pooling : 여러 영역 중 object를 명확히 표현하는 영역만 선택하는건지?
+RPN과의 차이는?
+
+2) 1강 33p anchor box의 수 계산하는 과정
+하나의 feature map에서 4개의 anchor box가 있으면 채널수와 곱해야 되는거 아닌지?
