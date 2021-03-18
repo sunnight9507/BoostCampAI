@@ -1,0 +1,20 @@
+공유할 내용
+
+1) 
+
+궁금한 내용
+
+1) 
+
+조교님 팁 공유
+
+Cmder + windows terminal
+
+vscode
+vim
+
+pytorch lightning
+omegaconf
+py-spy
+
+todo tool
