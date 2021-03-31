@@ -1,0 +1,21 @@
+DONE
+
+- 성별 분류 후 나이 분류
+- 마스크 유무 분류
+  - timm library의 resnet 사용
+  - AdamW
+  - crossentropy
+
+공유받은 내용
+- tmux : vscode에서 실행시키고 꺼지지 않는?
+https://dgkim5360.tistory.com/entry/the-first-steps-for-tmux-terminal-multiplexer
+
+- parameter 추적하는 방법
+https://neptune.ai/
+
+TODO
+
+- 구분 없이 분류 시도
+- albumentations 사용
+- AdamP
+- focal loss
